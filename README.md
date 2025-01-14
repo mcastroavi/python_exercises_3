@@ -1,5 +1,3 @@
-# python_exercises_3
-"""
 Questons 1:
 ========================================================================================================
 Give a list of numbers, write a function with lambda and filter to return the even numbers of the list.
@@ -19,4 +17,5 @@ Questons 4:
 ========================================================================================================
 Given an integer array nums of length n, please return the number closest to 0 in nums. 
 If there are multiple answers, please return the maximum value among them.
+
 
